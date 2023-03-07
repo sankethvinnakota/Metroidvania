@@ -6,6 +6,6 @@ public class Helloworld : MonoBehaviour
 {
     void Start()
     {
-        
+        print("Hello World");
     }
 }
